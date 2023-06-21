@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-	<head> 
-		<title> <b> <i> Homepage </i> </b> </title>
-	</head>
-	<body>
-	<h1> All about Cats!</h1>
-	</body>
-</html> 
